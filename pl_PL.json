@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Wszystkie gałęzie",
     "allVersions": "Wszystkie wersje",
+    "advanced": "Filtry wyszukiwania",
+    "apply": "Zastosuj filtry",
     "branch": "Gałąź",
+    "modifiedDate": "Data modyfikacji",
+    "modifiedFrom": "Zmodyfikowano od",
+    "modifiedTo": "Zmodyfikowano do",
+    "properties": "Właściwości",
+    "propertyKey": "Klucz właściwości",
+    "propertyKeyPlaceholder": "np. git.commit.id",
+    "propertyValue": "Wartość właściwości",
+    "propertyValuePlaceholder": "Wartość zawiera…",
+    "reset": "Resetuj",
+    "search": "Szukaj kompilacji",
+    "searchDescription": "Przeszukuje wersje, nazwy plików, źródła, dostawców, gałęzie oraz klucze i wartości właściwości.",
+    "searchPlaceholder": "Wersja, plik, źródło, właściwość…",
     "version": "Wersja"
   },
   "pagination": {

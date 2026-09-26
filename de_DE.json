@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Alle Zweige",
     "allVersions": "Alle Versionen",
+    "advanced": "Suchfilter",
+    "apply": "Filter anwenden",
     "branch": "Zweig",
+    "modifiedDate": "Änderungsdatum",
+    "modifiedFrom": "Geändert ab",
+    "modifiedTo": "Geändert bis",
+    "properties": "Eigenschaften",
+    "propertyKey": "Eigenschaftsschlüssel",
+    "propertyKeyPlaceholder": "z. B. git.commit.id",
+    "propertyValue": "Eigenschaftswert",
+    "propertyValuePlaceholder": "Wert enthält…",
+    "reset": "Zurücksetzen",
+    "search": "Builds durchsuchen",
+    "searchDescription": "Durchsucht Versionen, Dateinamen, Quellen, Anbieter, Zweige sowie Eigenschaftsschlüssel und -werte.",
+    "searchPlaceholder": "Version, Datei, Quelle, Eigenschaft…",
     "version": "Version"
   },
   "pagination": {

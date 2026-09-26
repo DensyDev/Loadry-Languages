@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Tüm dallar",
     "allVersions": "Tüm sürümler",
+    "advanced": "Arama filtreleri",
+    "apply": "Filtreleri uygula",
     "branch": "Dal",
+    "modifiedDate": "Değiştirilme tarihi",
+    "modifiedFrom": "Değiştirilme başlangıcı",
+    "modifiedTo": "Değiştirilme bitişi",
+    "properties": "Özellikler",
+    "propertyKey": "Özellik anahtarı",
+    "propertyKeyPlaceholder": "örn. git.commit.id",
+    "propertyValue": "Özellik değeri",
+    "propertyValuePlaceholder": "Değer şunu içerir…",
+    "reset": "Sıfırla",
+    "search": "Derlemelerde ara",
+    "searchDescription": "Sürümlerde, dosya adlarında, kaynaklarda, sağlayıcılarda, dallarda ve özellik anahtarları ile değerlerinde arar.",
+    "searchPlaceholder": "Sürüm, dosya, kaynak, özellik…",
     "version": "Sürüm"
   },
   "pagination": {

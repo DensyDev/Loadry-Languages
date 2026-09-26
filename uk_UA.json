@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Усі гілки",
     "allVersions": "Усі версії",
+    "advanced": "Фільтри пошуку",
+    "apply": "Застосувати фільтри",
     "branch": "Гілка",
+    "modifiedDate": "Дата зміни",
+    "modifiedFrom": "Змінено від",
+    "modifiedTo": "Змінено до",
+    "properties": "Властивості",
+    "propertyKey": "Ключ властивості",
+    "propertyKeyPlaceholder": "наприклад, git.commit.id",
+    "propertyValue": "Значення властивості",
+    "propertyValuePlaceholder": "Значення містить…",
+    "reset": "Скинути",
+    "search": "Пошук збірок",
+    "searchDescription": "Шукає у версіях, назвах файлів, джерелах, провайдерах, гілках, а також ключах і значеннях properties.",
+    "searchPlaceholder": "Версія, файл, source, property…",
     "version": "Версія"
   },
   "pagination": {

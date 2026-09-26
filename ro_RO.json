@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Toate ramurile",
     "allVersions": "Toate versiunile",
+    "advanced": "Filtre de căutare",
+    "apply": "Aplică filtrele",
     "branch": "Ramură",
+    "modifiedDate": "Data modificării",
+    "modifiedFrom": "Modificat de la",
+    "modifiedTo": "Modificat până la",
+    "properties": "Proprietăți",
+    "propertyKey": "Cheie proprietate",
+    "propertyKeyPlaceholder": "de ex. git.commit.id",
+    "propertyValue": "Valoare proprietate",
+    "propertyValuePlaceholder": "Valoarea conține…",
+    "reset": "Resetează",
+    "search": "Caută build-uri",
+    "searchDescription": "Caută în versiuni, nume de fișiere, surse, furnizori, ramuri și cheile și valorile proprietăților.",
+    "searchPlaceholder": "Versiune, fișier, sursă, proprietate…",
     "version": "Versiune"
   },
   "pagination": {

@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Toutes les branches",
     "allVersions": "Toutes les versions",
+    "advanced": "Filtres de recherche",
+    "apply": "Appliquer les filtres",
     "branch": "Branche",
+    "modifiedDate": "Date de modification",
+    "modifiedFrom": "Modifié à partir du",
+    "modifiedTo": "Modifié jusqu’au",
+    "properties": "Propriétés",
+    "propertyKey": "Clé de propriété",
+    "propertyKeyPlaceholder": "ex. git.commit.id",
+    "propertyValue": "Valeur de propriété",
+    "propertyValuePlaceholder": "La valeur contient…",
+    "reset": "Réinitialiser",
+    "search": "Rechercher des builds",
+    "searchDescription": "Recherche dans les versions, noms de fichiers, sources, fournisseurs, branches, clés et valeurs des propriétés.",
+    "searchPlaceholder": "Version, fichier, source, propriété…",
     "version": "Version"
   },
   "pagination": {

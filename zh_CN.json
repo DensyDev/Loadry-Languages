@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "所有分支",
     "allVersions": "所有版本",
+    "advanced": "搜索筛选器",
+    "apply": "应用筛选器",
     "branch": "分支",
+    "modifiedDate": "修改日期",
+    "modifiedFrom": "修改时间起始",
+    "modifiedTo": "修改时间截止",
+    "properties": "属性",
+    "propertyKey": "属性键",
+    "propertyKeyPlaceholder": "例如 git.commit.id",
+    "propertyValue": "属性值",
+    "propertyValuePlaceholder": "值包含…",
+    "reset": "重置",
+    "search": "搜索构建",
+    "searchDescription": "搜索版本、文件名、来源、提供者、分支以及属性键和值。",
+    "searchPlaceholder": "版本、文件、来源、属性…",
     "version": "版本"
   },
   "pagination": {

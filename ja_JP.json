@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "すべてのブランチ",
     "allVersions": "すべてのバージョン",
+    "advanced": "検索フィルター",
+    "apply": "フィルターを適用",
     "branch": "ブランチ",
+    "modifiedDate": "変更日",
+    "modifiedFrom": "変更日（開始）",
+    "modifiedTo": "変更日（終了）",
+    "properties": "プロパティ",
+    "propertyKey": "プロパティキー",
+    "propertyKeyPlaceholder": "例: git.commit.id",
+    "propertyValue": "プロパティ値",
+    "propertyValuePlaceholder": "値に含む文字…",
+    "reset": "リセット",
+    "search": "ビルドを検索",
+    "searchDescription": "バージョン、ファイル名、ソース、プロバイダー、ブランチ、プロパティのキーと値を検索します。",
+    "searchPlaceholder": "バージョン、ファイル、ソース、プロパティ…",
     "version": "バージョン"
   },
   "pagination": {

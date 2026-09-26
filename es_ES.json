@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Todas las ramas",
     "allVersions": "Todas las versiones",
+    "advanced": "Filtros de búsqueda",
+    "apply": "Aplicar filtros",
     "branch": "Rama",
+    "modifiedDate": "Fecha de modificación",
+    "modifiedFrom": "Modificado desde",
+    "modifiedTo": "Modificado hasta",
+    "properties": "Propiedades",
+    "propertyKey": "Clave de propiedad",
+    "propertyKeyPlaceholder": "p. ej., git.commit.id",
+    "propertyValue": "Valor de propiedad",
+    "propertyValuePlaceholder": "El valor contiene…",
+    "reset": "Restablecer",
+    "search": "Buscar compilaciones",
+    "searchDescription": "Busca en versiones, nombres de archivo, fuentes, proveedores, ramas y claves y valores de propiedades.",
+    "searchPlaceholder": "Versión, archivo, fuente, propiedad…",
     "version": "Versión"
   },
   "pagination": {

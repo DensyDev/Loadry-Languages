@@ -27,7 +27,21 @@
   "filters": {
     "allBranches": "Все ветки",
     "allVersions": "Все версии",
+    "advanced": "Фильтры поиска",
+    "apply": "Применить фильтры",
     "branch": "Ветка",
+    "modifiedDate": "Дата изменения",
+    "modifiedFrom": "Изменено с",
+    "modifiedTo": "Изменено до",
+    "properties": "Свойства",
+    "propertyKey": "Ключ свойства",
+    "propertyKeyPlaceholder": "например, git.commit.id",
+    "propertyValue": "Значение свойства",
+    "propertyValuePlaceholder": "Значение содержит…",
+    "reset": "Сбросить",
+    "search": "Поиск сборок",
+    "searchDescription": "Ищет по версиям, именам файлов, источникам, провайдерам, веткам, а также ключам и значениям properties.",
+    "searchPlaceholder": "Версия, файл, source, property…",
     "version": "Версия"
   },
   "pagination": {
