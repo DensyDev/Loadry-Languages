@@ -1,0 +1,164 @@
+{
+  "default": "en_US",
+  "languages": [
+    {
+      "aliases": [
+        "en",
+        "en-us",
+        "en_us"
+      ],
+      "bcp47": "en-US",
+      "code": "en_US",
+      "file": "en_US.json",
+      "flagCountryCode": "us",
+      "label": "English",
+      "nativeLabel": "English"
+    },
+    {
+      "aliases": [
+        "ru",
+        "ru-ru",
+        "ru_ru"
+      ],
+      "bcp47": "ru-RU",
+      "code": "ru_RU",
+      "file": "ru_RU.json",
+      "flagCountryCode": "ru",
+      "label": "Russian",
+      "nativeLabel": "Русский"
+    },
+    {
+      "aliases": [
+        "uk",
+        "uk-ua",
+        "uk_ua",
+        "ua"
+      ],
+      "bcp47": "uk-UA",
+      "code": "uk_UA",
+      "file": "uk_UA.json",
+      "flagCountryCode": "ua",
+      "label": "Ukrainian",
+      "nativeLabel": "Українська"
+    },
+    {
+      "aliases": [
+        "pl",
+        "pl-pl",
+        "pl_pl"
+      ],
+      "bcp47": "pl-PL",
+      "code": "pl_PL",
+      "file": "pl_PL.json",
+      "flagCountryCode": "pl",
+      "label": "Polish",
+      "nativeLabel": "Polski"
+    },
+    {
+      "aliases": [
+        "de",
+        "de-de",
+        "de_de"
+      ],
+      "bcp47": "de-DE",
+      "code": "de_DE",
+      "file": "de_DE.json",
+      "flagCountryCode": "de",
+      "label": "German",
+      "nativeLabel": "Deutsch"
+    },
+    {
+      "aliases": [
+        "fr",
+        "fr-fr",
+        "fr_fr"
+      ],
+      "bcp47": "fr-FR",
+      "code": "fr_FR",
+      "file": "fr_FR.json",
+      "flagCountryCode": "fr",
+      "label": "French",
+      "nativeLabel": "Français"
+    },
+    {
+      "aliases": [
+        "es",
+        "es-es",
+        "es_es"
+      ],
+      "bcp47": "es-ES",
+      "code": "es_ES",
+      "file": "es_ES.json",
+      "flagCountryCode": "es",
+      "label": "Spanish",
+      "nativeLabel": "Español"
+    },
+    {
+      "aliases": [
+        "pt",
+        "pt-br",
+        "pt_br"
+      ],
+      "bcp47": "pt-BR",
+      "code": "pt_BR",
+      "file": "pt_BR.json",
+      "flagCountryCode": "br",
+      "label": "Portuguese (Brazil)",
+      "nativeLabel": "Português (Brasil)"
+    },
+    {
+      "aliases": [
+        "ro",
+        "ro-ro",
+        "ro_ro"
+      ],
+      "bcp47": "ro-RO",
+      "code": "ro_RO",
+      "file": "ro_RO.json",
+      "flagCountryCode": "ro",
+      "label": "Romanian",
+      "nativeLabel": "Română"
+    },
+    {
+      "aliases": [
+        "tr",
+        "tr-tr",
+        "tr_tr"
+      ],
+      "bcp47": "tr-TR",
+      "code": "tr_TR",
+      "file": "tr_TR.json",
+      "flagCountryCode": "tr",
+      "label": "Turkish",
+      "nativeLabel": "Türkçe"
+    },
+    {
+      "aliases": [
+        "zh",
+        "zh-cn",
+        "zh_cn",
+        "zh-hans",
+        "zh_hans"
+      ],
+      "bcp47": "zh-CN",
+      "code": "zh_CN",
+      "file": "zh_CN.json",
+      "flagCountryCode": "cn",
+      "label": "Chinese (Simplified)",
+      "nativeLabel": "简体中文"
+    },
+    {
+      "aliases": [
+        "ja",
+        "ja-jp",
+        "ja_jp"
+      ],
+      "bcp47": "ja-JP",
+      "code": "ja_JP",
+      "file": "ja_JP.json",
+      "flagCountryCode": "jp",
+      "label": "Japanese",
+      "nativeLabel": "日本語"
+    }
+  ]
+}
