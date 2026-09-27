@@ -24,6 +24,12 @@
     "stable": "Stabilă",
     "legacy": "Legacy"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Dependență",
+    "repository": "Depozit",
+    "title": "Folosește ca dependență"
+  },
   "filters": {
     "allBranches": "Toate ramurile",
     "allVersions": "Toate versiunile",

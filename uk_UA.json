@@ -24,6 +24,12 @@
     "stable": "Стабільна",
     "legacy": "Застаріла"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Залежність",
+    "repository": "Репозиторій",
+    "title": "Використати як залежність"
+  },
   "filters": {
     "allBranches": "Усі гілки",
     "allVersions": "Усі версії",

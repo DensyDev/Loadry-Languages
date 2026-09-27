@@ -24,6 +24,12 @@
     "stable": "Stabil",
     "legacy": "Veraltet"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Abhängigkeit",
+    "repository": "Repository",
+    "title": "Als Abhängigkeit verwenden"
+  },
   "filters": {
     "allBranches": "Alle Zweige",
     "allVersions": "Alle Versionen",

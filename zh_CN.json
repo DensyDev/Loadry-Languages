@@ -24,6 +24,12 @@
     "stable": "稳定版",
     "legacy": "旧版"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "依赖项",
+    "repository": "仓库",
+    "title": "作为依赖项使用"
+  },
   "filters": {
     "allBranches": "所有分支",
     "allVersions": "所有版本",

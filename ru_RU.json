@@ -24,6 +24,12 @@
     "stable": "Stable",
     "legacy": "Legacy"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Зависимость",
+    "repository": "Репозиторий",
+    "title": "Использовать как зависимость"
+  },
   "filters": {
     "allBranches": "Все ветки",
     "allVersions": "Все версии",

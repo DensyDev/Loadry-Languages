@@ -24,6 +24,12 @@
     "stable": "Kararlı",
     "legacy": "Eski"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Bağımlılık",
+    "repository": "Depo",
+    "title": "Bağımlılık olarak kullan"
+  },
   "filters": {
     "allBranches": "Tüm dallar",
     "allVersions": "Tüm sürümler",

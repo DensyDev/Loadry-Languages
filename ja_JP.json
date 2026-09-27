@@ -24,6 +24,12 @@
     "stable": "安定版",
     "legacy": "旧版"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "依存関係",
+    "repository": "リポジトリ",
+    "title": "依存関係として使用"
+  },
   "filters": {
     "allBranches": "すべてのブランチ",
     "allVersions": "すべてのバージョン",

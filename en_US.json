@@ -24,6 +24,12 @@
     "stable": "Stable",
     "legacy": "Legacy"
   },
+  "dependencies": {
+    "action": "Maven / Gradle / SBT",
+    "artifact": "Dependency",
+    "repository": "Repository",
+    "title": "Use as a dependency"
+  },
   "filters": {
     "allBranches": "All branches",
     "allVersions": "All versions",
