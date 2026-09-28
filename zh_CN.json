@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "所有分支",
+    "allTags": "全部标签",
     "allVersions": "所有版本",
     "advanced": "搜索筛选器",
     "apply": "应用筛选器",
     "branch": "分支",
+    "clearTags": "清除标签",
     "modifiedDate": "修改日期",
     "modifiedFrom": "修改时间起始",
     "modifiedTo": "修改时间截止",
@@ -48,6 +50,8 @@
     "search": "搜索构建",
     "searchDescription": "搜索版本、文件名、来源、提供者、分支以及属性键和值。",
     "searchPlaceholder": "版本、文件、来源、属性…",
+    "selectedTags": "标签 ({{count}})",
+    "tags": "标签",
     "version": "版本"
   },
   "pagination": {

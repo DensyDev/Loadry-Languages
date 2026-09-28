@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Todas las ramas",
+    "allTags": "Todas las etiquetas",
     "allVersions": "Todas las versiones",
     "advanced": "Filtros de búsqueda",
     "apply": "Aplicar filtros",
     "branch": "Rama",
+    "clearTags": "Borrar etiquetas",
     "modifiedDate": "Fecha de modificación",
     "modifiedFrom": "Modificado desde",
     "modifiedTo": "Modificado hasta",
@@ -48,6 +50,8 @@
     "search": "Buscar compilaciones",
     "searchDescription": "Busca en versiones, nombres de archivo, fuentes, proveedores, ramas y claves y valores de propiedades.",
     "searchPlaceholder": "Versión, archivo, fuente, propiedad…",
+    "selectedTags": "Etiquetas ({{count}})",
+    "tags": "Etiquetas",
     "version": "Versión"
   },
   "pagination": {

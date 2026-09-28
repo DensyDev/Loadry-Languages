@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Усі гілки",
+    "allTags": "Усі теги",
     "allVersions": "Усі версії",
     "advanced": "Фільтри пошуку",
     "apply": "Застосувати фільтри",
     "branch": "Гілка",
+    "clearTags": "Очистити теги",
     "modifiedDate": "Дата зміни",
     "modifiedFrom": "Змінено від",
     "modifiedTo": "Змінено до",
@@ -48,6 +50,8 @@
     "search": "Пошук збірок",
     "searchDescription": "Шукає у версіях, назвах файлів, джерелах, провайдерах, гілках, а також ключах і значеннях properties.",
     "searchPlaceholder": "Версія, файл, source, property…",
+    "selectedTags": "Теги ({{count}})",
+    "tags": "Теги",
     "version": "Версія"
   },
   "pagination": {

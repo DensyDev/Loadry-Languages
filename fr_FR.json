@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Toutes les branches",
+    "allTags": "Tous les tags",
     "allVersions": "Toutes les versions",
     "advanced": "Filtres de recherche",
     "apply": "Appliquer les filtres",
     "branch": "Branche",
+    "clearTags": "Effacer les tags",
     "modifiedDate": "Date de modification",
     "modifiedFrom": "Modifié à partir du",
     "modifiedTo": "Modifié jusqu’au",
@@ -48,6 +50,8 @@
     "search": "Rechercher des builds",
     "searchDescription": "Recherche dans les versions, noms de fichiers, sources, fournisseurs, branches, clés et valeurs des propriétés.",
     "searchPlaceholder": "Version, fichier, source, propriété…",
+    "selectedTags": "Tags ({{count}})",
+    "tags": "Tags",
     "version": "Version"
   },
   "pagination": {

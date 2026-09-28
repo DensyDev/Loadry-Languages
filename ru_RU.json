@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Все ветки",
+    "allTags": "Все теги",
     "allVersions": "Все версии",
     "advanced": "Фильтры поиска",
     "apply": "Применить фильтры",
     "branch": "Ветка",
+    "clearTags": "Очистить теги",
     "modifiedDate": "Дата изменения",
     "modifiedFrom": "Изменено с",
     "modifiedTo": "Изменено до",
@@ -48,6 +50,8 @@
     "search": "Поиск сборок",
     "searchDescription": "Ищет по версиям, именам файлов, источникам, провайдерам, веткам, а также ключам и значениям properties.",
     "searchPlaceholder": "Версия, файл, source, property…",
+    "selectedTags": "Теги ({{count}})",
+    "tags": "Теги",
     "version": "Версия"
   },
   "pagination": {

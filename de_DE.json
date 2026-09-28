@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Alle Zweige",
+    "allTags": "Alle Tags",
     "allVersions": "Alle Versionen",
     "advanced": "Suchfilter",
     "apply": "Filter anwenden",
     "branch": "Zweig",
+    "clearTags": "Tags löschen",
     "modifiedDate": "Änderungsdatum",
     "modifiedFrom": "Geändert ab",
     "modifiedTo": "Geändert bis",
@@ -48,6 +50,8 @@
     "search": "Builds durchsuchen",
     "searchDescription": "Durchsucht Versionen, Dateinamen, Quellen, Anbieter, Zweige sowie Eigenschaftsschlüssel und -werte.",
     "searchPlaceholder": "Version, Datei, Quelle, Eigenschaft…",
+    "selectedTags": "Tags ({{count}})",
+    "tags": "Tags",
     "version": "Version"
   },
   "pagination": {

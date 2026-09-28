@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "すべてのブランチ",
+    "allTags": "すべてのタグ",
     "allVersions": "すべてのバージョン",
     "advanced": "検索フィルター",
     "apply": "フィルターを適用",
     "branch": "ブランチ",
+    "clearTags": "タグをクリア",
     "modifiedDate": "変更日",
     "modifiedFrom": "変更日（開始）",
     "modifiedTo": "変更日（終了）",
@@ -48,6 +50,8 @@
     "search": "ビルドを検索",
     "searchDescription": "バージョン、ファイル名、ソース、プロバイダー、ブランチ、プロパティのキーと値を検索します。",
     "searchPlaceholder": "バージョン、ファイル、ソース、プロパティ…",
+    "selectedTags": "タグ ({{count}})",
+    "tags": "タグ",
     "version": "バージョン"
   },
   "pagination": {

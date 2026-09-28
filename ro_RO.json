@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Toate ramurile",
+    "allTags": "Toate etichetele",
     "allVersions": "Toate versiunile",
     "advanced": "Filtre de căutare",
     "apply": "Aplică filtrele",
     "branch": "Ramură",
+    "clearTags": "Șterge etichetele",
     "modifiedDate": "Data modificării",
     "modifiedFrom": "Modificat de la",
     "modifiedTo": "Modificat până la",
@@ -48,6 +50,8 @@
     "search": "Caută build-uri",
     "searchDescription": "Caută în versiuni, nume de fișiere, surse, furnizori, ramuri și cheile și valorile proprietăților.",
     "searchPlaceholder": "Versiune, fișier, sursă, proprietate…",
+    "selectedTags": "Etichete ({{count}})",
+    "tags": "Etichete",
     "version": "Versiune"
   },
   "pagination": {

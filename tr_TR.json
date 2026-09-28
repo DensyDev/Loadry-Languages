@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Tüm dallar",
+    "allTags": "Tüm etiketler",
     "allVersions": "Tüm sürümler",
     "advanced": "Arama filtreleri",
     "apply": "Filtreleri uygula",
     "branch": "Dal",
+    "clearTags": "Etiketleri temizle",
     "modifiedDate": "Değiştirilme tarihi",
     "modifiedFrom": "Değiştirilme başlangıcı",
     "modifiedTo": "Değiştirilme bitişi",
@@ -48,6 +50,8 @@
     "search": "Derlemelerde ara",
     "searchDescription": "Sürümlerde, dosya adlarında, kaynaklarda, sağlayıcılarda, dallarda ve özellik anahtarları ile değerlerinde arar.",
     "searchPlaceholder": "Sürüm, dosya, kaynak, özellik…",
+    "selectedTags": "Etiketler ({{count}})",
+    "tags": "Etiketler",
     "version": "Sürüm"
   },
   "pagination": {

@@ -32,10 +32,12 @@
   },
   "filters": {
     "allBranches": "Wszystkie gałęzie",
+    "allTags": "Wszystkie tagi",
     "allVersions": "Wszystkie wersje",
     "advanced": "Filtry wyszukiwania",
     "apply": "Zastosuj filtry",
     "branch": "Gałąź",
+    "clearTags": "Wyczyść tagi",
     "modifiedDate": "Data modyfikacji",
     "modifiedFrom": "Zmodyfikowano od",
     "modifiedTo": "Zmodyfikowano do",
@@ -48,6 +50,8 @@
     "search": "Szukaj kompilacji",
     "searchDescription": "Przeszukuje wersje, nazwy plików, źródła, dostawców, gałęzie oraz klucze i wartości właściwości.",
     "searchPlaceholder": "Wersja, plik, źródło, właściwość…",
+    "selectedTags": "Tagi ({{count}})",
+    "tags": "Tagi",
     "version": "Wersja"
   },
   "pagination": {
